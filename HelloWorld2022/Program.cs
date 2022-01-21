@@ -1,5 +1,9 @@
 ﻿using System;
 
+/*
+ Rijesit cemo jedan zadatak vezano za ispit iz kolegija Programsko inzenjerstvo
+ */
+
 namespace HelloWorld2022
 {
     class Program
